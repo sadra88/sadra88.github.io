@@ -46,3 +46,6 @@ hr {
 .buffer {
 	height: 12rem;
 }
+.container {
+	height: 100%;
+}
